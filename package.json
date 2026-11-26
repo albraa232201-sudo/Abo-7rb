@@ -1,0 +1,13 @@
+{
+  "name": "user-hunter-discord",
+  "version": "1.0.0",
+  "description": "Discord username hunter bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "express": "^5.1.0"
+  }
+}
